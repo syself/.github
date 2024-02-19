@@ -28,8 +28,8 @@ From the beginning, Syself has been a fervent supporter of open-source technolog
 ### Our Projects
 Our work includes partnerships with infrastructure providers like Hetzner and Hivelocity, and European-funded projects like Sovereign Cloud Stack:
 
-- **[Cluster API Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Hetzner Provider allows you to run Kubernetes on [Hetzner](https://www.hetzner.com/). The Infrastructure as Software approach allows completly declarative provisioning of your infrastructure with automatic health-checks and full day 2 operations.
-- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Hivelocity Provider let you run Kubernetes in a declarative way on [Hivelocity](https://www.hivelocity.net/). Syself is the core maintainer.
+- **[Cluster API Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Hetzner Provider allows you to run Kubernetes on [Hetzner](https://www.hetzner.com/). The Infrastructure as Software approach allows completely declarative provisioning of your infrastructure with automatic health checks and full day 2 operations.
+- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Hivelocity Provider lets you run Kubernetes in a declarative way on [Hivelocity](https://www.hivelocity.net/). Syself is the core maintainer.
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: Developed by Syself for the infrastructure provider Hivelocity.
 - **[Helm Charts](https://github.com/syself/charts)**: Syself Helm Chart library.
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: Works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) to create Kubernetes clusters in an easy and [Cluster API](https://github.com/kubernetes-sigs/cluster-api) native native way.
