@@ -9,17 +9,17 @@ At [Syself](https://syself.com/), our mission is to make Kubernetes accessible, 
 
 ## ✨ Who are we?
 
-Syself is a privately-held company headquartered in Germany. With a globally distributed team, we offer Kubernetes-managed services worldwide. We provide 24/7 support to ensure seamless management.
+Syself is a privately held company headquartered in Germany. With a globally distributed team, we offer Kubernetes-managed services worldwide. We provide 24/7 support to ensure seamless management.
 
 ## 🤖 Syself Autopilot: Reducing Kubernetes Operation by 98%
 
-Syself Autopilot transforms Kubernetes operations, focusing on automation and enhanced Cluster-API features. It serves as your Kubernetes Command Center, minimizing administration effort and maximizing innovation.
+Syself Autopilot transforms Kubernetes operations, focusing on automation and enhanced Cluster API features. It serves as your Kubernetes Command Center, minimizing administration effort and maximizing innovation.
 
 ### 💡 Key features
 
 - **Production-Ready Clusters**: Secure, compliant, and ready to deploy.
 - **Automated Self-Healing**: Ensures high availability with no downtime.
-- **Scalability & GitOps:**: Adapt to business needs and manage your clusters with GitOps.
+- **Scalability & GitOps**: Adapt to business needs and manage your clusters with GitOps.
 - **Customizable Support**: Tailored SLAs and compliance-friendly options for diverse business requirements.
 
 ### 📞 Our Services: Expert Support, Anytime, Anywhere
@@ -34,8 +34,8 @@ From the beginning, Syself has been a fervent supporter of open-source technolog
 
 Our work includes partnerships with infrastructure providers like Hetzner and Hivelocity, and European-funded projects like Sovereign Cloud Stack:
 
-- **[Cluster API Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Hetzner Provider allows you to run Kubernetes on [Hetzner](https://www.hetzner.com/). The Infrastructure as Software approach allows completly declarative provisioning of your infrastructure with automatic health-checks and full day 2 operations.
-- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Hivelocity Provider let you run Kubernetes in a declarative way on [Hivelocity](https://www.hivelocity.net/). Syself is the core maintainer.
+- **[Cluster API Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Hetzner Provider allows you to run Kubernetes on [Hetzner](https://www.hetzner.com/). The Infrastructure as Software approach allows completely declarative provisioning of your infrastructure with automatic health checks and full day 2 operations.
+- **[Kubernetes ClusterAPI Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Hivelocity Provider lets you run Kubernetes in a declarative way on [Hivelocity](https://www.hivelocity.net/). Syself is the core maintainer.
 - **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: Developed by Syself for the infrastructure provider Hivelocity.
 - **[Helm Charts](https://github.com/syself/charts)**: Syself Helm Chart library.
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: Works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) to create Kubernetes clusters in an easy and [Cluster API](https://github.com/kubernetes-sigs/cluster-api) native native way.
@@ -45,7 +45,7 @@ Our work includes partnerships with infrastructure providers like Hetzner and Hi
 
 ### 👩🏽‍💻 Make an impact
 
-Contribute by submitting issues, contributing PRs, and engaging in open discussions for feedback. Your involvement is crucial in driving Kubernetes innovation forward.
+Contribute by submitting issues, contributing PRs, and engaging in open discussions for feedback. Your involvement is crucial in driving the Kubernetes innovation forward.
 
 ### 🤝 Get involved
 
