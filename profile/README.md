@@ -13,13 +13,13 @@ Syself is a privately-held company headquartered in Germany. With a globally dis
 
 ## 🤖 Syself Autopilot: Reducing Kubernetes Operation by 98%
 
-Syself Autopilot transforms Kubernetes operations, focusing on automation and enhanced Cluster API features. It serves as your Kubernetes Command Center, minimizing administration effort and maximizing innovation.
+Syself Autopilot transforms Kubernetes operations, focusing on automation and enhanced Cluster-API features. It serves as your Kubernetes Command Center, minimizing administration effort and maximizing innovation.
 
 ### 💡 Key features
 
 - **Production-Ready Clusters**: Secure, compliant, and ready to deploy.
 - **Automated Self-Healing**: Ensures high availability with no downtime.
-- **Scalability & GitOps**: Adapt to business needs and manage your clusters with GitOps.
+- **Scalability & GitOps:**: Adapt to business needs and manage your clusters with GitOps.
 - **Customizable Support**: Tailored SLAs and compliance-friendly options for diverse business requirements.
 
 ### 📞 Our Services: Expert Support, Anytime, Anywhere
@@ -28,7 +28,7 @@ Syself offers a hands-free Kubernetes management experience, providing rapid res
 
 ## 🌍 Open-Source with Syself
 
-From the beginning, Syself has been a fervent supporter of open-source technologies and contributions. We are motivated by our active contributions to the Kubernetes project family, especially in projects like [Cluster API](https://github.com/kubernetes-sigs/cluster-api).
+From the beginning, Syself has been a fervent supporter of open-source technologies and contributions. We are motivated by our active contributions to the Kubernetes project family, especially in projects like [cluster-api](https://github.com/kubernetes-sigs/cluster-api).
 
 ### 🛠️ Our Projects
 
