@@ -41,6 +41,8 @@ Our work includes partnerships with infrastructure providers like Hetzner and Hi
 - **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: Works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) to create Kubernetes clusters in an easy and [Cluster API](https://github.com/kubernetes-sigs/cluster-api) native native way.
 - **[Csctl](https://github.com/SovereignCloudStack/csmctl)**: A tool used for releasing cluster stacks.
 
+Love our work so far? Support us by giving a star ⭐
+
 ## ✈️ Join us on the journey
 
 ### 👩🏽‍💻 Make an impact
