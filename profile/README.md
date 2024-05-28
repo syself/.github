@@ -5,7 +5,9 @@
 [![Website](https://img.shields.io/badge/Our-Website-E37894.svg)](https://syself.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@syself-blue.svg)](https://www.linkedin.com/company/syself)
 
-[Syself](https://syself.com/) is making production-ready Kubernetes easier and more reliable by automating the entire lifecycle of clusters. If you are interested in creating and upgrading highly available clusters with a single command, keep reading!
+[Syself](https://syself.com/) is making production-ready Kubernetes easier and more reliable by automating the entire lifecycle of clusters. 
+
+If you are interested in creating and upgrading highly available clusters with a single command, keep reading or [book a demo](https://syself.com/demo).
 
 ## ✨ Who we are
 
@@ -53,6 +55,6 @@ Contribute by submitting issues, contributing PRs, and engaging in open discussi
 
 - **Affiliate Program:** Earn a 20% commission on referrals for a year.
 - **Try Syself Autopilot:** Book a demo or try it for free at [our website](https://syself.com).
-- **We're Hiring:** Join our global team. Contact us at <jobs@syself.com>.
+- **We're Hiring:** Join our global team. Reach out at <jobs@syself.com>.
 
-For more information, contact us at <info@syself.com>.
+For more information, contact us at <contact@syself.com>.
