@@ -5,28 +5,32 @@
 [![Website](https://img.shields.io/badge/Our-Website-E37894.svg)](https://syself.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@syself-blue.svg)](https://www.linkedin.com/company/syself)
 
-At [Syself](https://syself.com/), our mission is to make Kubernetes accessible, empowering businesses worldwide with our easy-to-use, production-ready Kubernetes clusters.
+[Syself](https://syself.com/) is making production-ready Kubernetes easier and more reliable by automating the entire lifecycle of clusters. 
 
-## ✨ Who are we?
+If you are interested in creating and upgrading highly available clusters with a single command, keep reading or [book a demo](https://syself.com/demo).
 
-Syself is a privately held company headquartered in Germany. With a globally distributed team, we offer Kubernetes-managed services worldwide. We provide 24/7 support to ensure seamless management.
+## ✨ Who we are
 
-## 🤖 Syself Autopilot: Reducing Kubernetes Operation by 98%
+Syself is based in Germany, with a globally distributed team of experts. Strongly rooted in the open-source community, we use battle-tested and open software to bring automation and ease of use to our customers, with the utmost goal of making Kubernetes better for your business.
 
-Syself Autopilot transforms Kubernetes operations, focusing on automation and enhanced Cluster API features. It serves as your Kubernetes Command Center, minimizing administration effort and maximizing innovation.
+## 🤖 Syself Autopilot: Reducing Kubernetes Operations by 98%
+
+Syself Autopilot transforms Kubernetes operations, focusing on automation and lifecycle management. It serves as your Kubernetes Command Center, minimizing administration effort and freeing you to focus on what matters most.
 
 ### 💡 Key features
 
-- **Production-Ready Clusters**: Secure, compliant, and ready to deploy.
-- **Automated Self-Healing**: Ensures high availability with no downtime.
-- **Scalability & GitOps**: Adapt to business needs and manage your clusters with GitOps.
-- **Customizable Support**: Tailored SLAs and compliance-friendly options for diverse business requirements.
+- **Production-readiness out of the box**
+- **Automated self-sealing**
+- **Fully declarative, with GitOps support**
+- **Multi-cloud, with VMs or bare-metal**
+- **Comprehensive and dev-friendly documentation**
+- **GDPR Compliant**
 
-### 📞 Our Services: Expert Support, Anytime, Anywhere
+## 📞 Expert Support, Anytime, Anywhere
 
-Syself offers a hands-free Kubernetes management experience, providing rapid response SLAs and 24/7 support through multiple channels. Our expertise in Kubernetes ensures your infrastructure is scalable, reliable, and ready for any challenge. We're dedicated to empowering your success with our expert-driven support services.
+From onboarding to ongoing operations, we offer multiple support channels, including 24/7 assistance, to ensure you always have the help you need, whenever you need it. Our proactive customer success approach includes regular check-ins and tailored advice, ensuring your Kubernetes journey with Syself is seamless.
 
-## 🌍 Open-Source with Syself
+## 🌍 Open-Source and Syself
 
 From the beginning, Syself has been a fervent supporter of open-source technologies and contributions. We are motivated by our active contributions to the Kubernetes project family, especially in projects like [cluster-api](https://github.com/kubernetes-sigs/cluster-api).
 
@@ -43,16 +47,14 @@ Our work includes partnerships with infrastructure providers like Hetzner and Hi
 
 Love our work so far? Support us by giving a star ⭐
 
-## ✈️ Join us on the journey
+### ✈️ Join us on the journey
 
-### 👩🏽‍💻 Make an impact
-
-Contribute by submitting issues, contributing PRs, and engaging in open discussions for feedback. Your involvement is crucial in driving the Kubernetes innovation forward.
+Contribute by submitting issues, contributing PRs, and engaging in open discussions for feedback. Your involvement is crucial in driving Kubernetes innovation forward.
 
 ### 🤝 Get involved
 
 - **Affiliate Program:** Earn a 20% commission on referrals for a year.
-- **Try Syself Autopilot:** Elevate your Kubernetes management.
-- **We're Hiring:** Join our global team. Contact us at <jobs@syself.com>.
+- **Try Syself Autopilot:** Book a demo or try it for free at [our website](https://syself.com).
+- **We're Hiring:** Join our global team. Reach out at <jobs@syself.com>.
 
-For more information or to get started, contact us at <info@syself.com>.
+For more information, contact us at <contact@syself.com>.
