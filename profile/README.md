@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Our-Website-E37894.svg)](https://syself.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@syself-blue.svg)](https://www.linkedin.com/company/syself)
 
-[Syself](https://syself.com/) is making production-ready Kubernetes easier and more reliable by automating the entire lifecycle of clusters. 
+[Syself](https://syself.com/) is building a simplified Kubernetes Management Platform, allowing you to build reliable environments with 100% reproducibility in just a few steps, no need for in-house experts. 
 
 If you are interested in creating and upgrading highly available clusters with a single command, keep reading or [book a demo](https://syself.com/demo).
 
@@ -19,12 +19,11 @@ Syself Autopilot transforms Kubernetes operations, focusing on automation and li
 
 ### 💡 Key features
 
-- **Production-readiness out of the box**
-- **Automated self-sealing**
-- **Fully declarative, with GitOps support**
-- **Multi-cloud, with VMs or bare-metal**
-- **Comprehensive and dev-friendly documentation**
-- **GDPR Compliant**
+- **Ease of use:** automated cluster creation, scaling and updates
+- **GDPR compliance:** strong data protection and regulatory adherence
+- **Full infrastructure ownership:** run clusters in your own account
+- **Self-healing:** automated issue detection and fixes, without human intervention
+- **Reliable and secure:** extensively tested, with patches out of the box
 
 ## 📞 Expert Support, Anytime, Anywhere
 
