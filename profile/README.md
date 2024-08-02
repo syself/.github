@@ -1,6 +1,6 @@
 # Welcome to Syself on GitHub! 🚀
 
-[![Syself logo - Reduce Kubernetes operations by 98%](/images/github-cover.png)](https://syself.com)
+[![Syself logo - Reduce Kubernetes operations by 98%](https://cdn.syself.com/github-banner.png)](https://syself.com)
 
 [![Website](https://img.shields.io/badge/Our-Website-E37894.svg)](https://syself.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@syself-blue.svg)](https://www.linkedin.com/company/syself)
