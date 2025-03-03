@@ -5,51 +5,70 @@
 [![Website](https://img.shields.io/badge/Our-Website-E37894.svg)](https://syself.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@syself-blue.svg)](https://www.linkedin.com/company/syself)
 
-[Syself](https://syself.com/) is building a simplified Kubernetes Management Platform, allowing you to build reliable environments with 100% reproducibility in just a few steps, no need for in-house experts. 
+# **Syself – The Future of Kubernetes Management**  
+🚀 **Self-Healing, Automated, and Scalable Kubernetes – On Your Terms.**  
 
-If you are interested in creating and upgrading highly available clusters with a single command, keep reading or [book a demo](https://syself.com/demo).
+## **What is Syself?**  
+Syself is a **fully automated Kubernetes lifecycle management platform** designed to simplify, scale, and secure Kubernetes clusters without the operational burden.  
 
-## ✨ Who we are
+Built on **a foundation of open-source technologies like Cluster API**, Syself automates everything—from cluster creation and scaling to updates and failure recovery—so you can **focus on your applications, not your infrastructure**.  
 
-Syself is based in Germany, with a globally distributed team of experts. Strongly rooted in the open-source community, we use battle-tested and open software to bring automation and ease of use to our customers, with the utmost goal of making Kubernetes better for your business.
+## **Why Syself?**  
+Managing Kubernetes at scale is complex. Traditional Infrastructure-as-Code (IaC) tools like Terraform require **manual execution** and do not continuously reconcile infrastructure state. Syself changes the game by taking a **software-defined approach**:  
 
-## 🤖 Syself Autopilot: Easy, Production-ready & Reliable Kubernetes
+✅ **Automated Kubernetes Lifecycle** – Deploy, scale, and update clusters effortlessly.  
+✅ **Self-Healing Infrastructure** – Nodes are monitored, replaced, and optimized in real-time.  
+✅ **Built for Scale** – Whether you manage a few clusters or thousands, Syself adapts.  
+✅ **Secure by Default** – Enforced best practices, automated compliance, and integrated security policies.  
+✅ **Flexible Infrastructure Support** – Works seamlessly across **multi-cloud and dedicated bare-metal environments**.  
 
-Syself Autopilot is a powerful Kubernetes Management Platform designed to automate and streamline the complexities of managing production-grade infrastructure. Here’s how we deliver value to our partners:
+## **Key Features**  
+### 🛠 **Self-Healing Kubernetes**  
+Syself automatically detects and replaces failed nodes, ensuring **zero downtime** for workloads.  
 
-- **Fully Automated, Production-Ready Clusters:** Syself Autopilot automates the creation and maintenance of Kubernetes clusters, ensuring they are secure, compliant, highly available and ready for production use immediately after deployment.
-- **Expertise in Hetzner Integration:** Syself has been operating on Hetzner infrastructure for four years, running Kubernetes platforms that support around 40 million daily users. We’ve developed a highly efficient Cluster API integration for Hetzner, which is now the second most used integration globally—ranking ahead of Azure, Google, and DigitalOcean. This deep expertise allows us to leverage Hetzner’s extensive network, including locations in Germany, Finland, The United States, and Singapore, offering the most cost-effective bare-metal servers and virtual machines worldwide.
-- **Tailored for AI/ML Workloads on Hetzner:** Our platform integrates seamlessly with Hetzner’s GPU servers, making it an ideal choice for companies running demanding AI and machine learning workloads. We currently manage hundreds of GPU nodes and reduce costs by up to 80% when compared to other solutions.
-- **Seamless Updates and Maintenance:** Syself Autopilot goes beyond standard maintenance by implementing a new Kubernetes operator designed to handle the lifecycle of cluster add-ons. This operator ensures that even during updates, there is no downtime, enabling 100% replication of the cluster for thorough testing. This innovative approach won a tender from the German government to build a Kubernetes-as-a-Service platform, highlighting its robustness and effectiveness.
-- **Comprehensive Global Support and Partnership:** We bring deep expertise in Kubernetes management, coupled with a close relationship with Hetzner, to provide unparalleled support to our partners. Our global team of DevOps experts and Site Reliability Engineers (SREs), spanning four continents, is available 24/7 on your fingertips to ensure a reliable service.
+### ⚡ **Declarative & GitOps-Ready**  
+Your infrastructure is defined as **Kubernetes objects** (CRDs), making it auditable, reproducible, and **fully compatible with GitOps workflows**.  
 
-Syself Autopilot is well-suited for organizations seeking a robust, scalable, and automated Kubernetes management solution.
+### 🏗 **Automated Cluster Upgrades**  
+Syself structures upgrades into safe, step-by-step processes, ensuring all dependencies are handled without breaking changes.  
 
-## 🌍 Open-Source and Syself
+### 🌍 **Multi-Cloud & Bare-Metal Server Support**  
+Syself works on **Hetzner Cloud, Hetzner Bare-Metal Servers**, and will soon support additional cloud providers. Bare-metal servers offer dedicated hardware resources without virtualization overhead, providing high performance and cost efficiency.  
 
-From the beginning, Syself has been a fervent supporter of open-source technologies and contributions. We are motivated by our active contributions to the Kubernetes project family, especially in projects like [cluster-api](https://github.com/kubernetes-sigs/cluster-api).
+### 💾 **High-Performance Databases on Kubernetes**  
+Run **PostgreSQL, MySQL, MongoDB, Redis, ClickHouse, Kafka, and more** with **vendor-neutral Kubernetes operators**—fully automated, scalable, and integrated with local NVMe storage.  
 
-### 🛠️ Our Projects
+### 🔐 **Secure by Design**  
+Syself enforces security best practices, provides **OIDC-based authentication**, and removes the need for manual **x509 certificate management**.  
 
-Our work includes partnerships with infrastructure providers like Hetzner and Hivelocity, and European-funded projects like Sovereign Cloud Stack:
+## **Get Started in Minutes**  
+1. **Deploy Syself Autopilot** – Spin up a cluster using **Syself’s Kubernetes-native API**.  
+2. **Define Your Infrastructure** – Manage everything declaratively with YAML.  
+3. **Scale & Automate** – Let Syself handle upgrades, node failures, and scaling.  
 
-- **[Cluster API Provider Hetzner](https://github.com/syself/cluster-api-provider-hetzner)**: The Hetzner Provider allows you to run Kubernetes on [Hetzner](https://www.hetzner.com/). The Infrastructure as Software approach allows completely declarative provisioning of your infrastructure with automatic health checks and full day 2 operations.
-- **[Cluster API Provider Hivelocity](https://github.com/hivelocity/cluster-api-provider-hivelocity)**: The Hivelocity Provider lets you run Kubernetes in a declarative way on [Hivelocity](https://www.hivelocity.net/). Syself is the core maintainer.
-- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)**: Developed by Syself for the infrastructure provider Hivelocity.
-- **[Helm Charts](https://github.com/syself/charts)**: Syself Helm Chart library.
-- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)**: Works with [Cluster Stacks](https://github.com/SovereignCloudStack/cluster-stacks) to create Kubernetes clusters in an easy and [Cluster API](https://github.com/kubernetes-sigs/cluster-api)-native way.
-- **[Csctl](https://github.com/SovereignCloudStack/csmctl)**: A tool used for releasing cluster stacks.
+## **Contributions to the Cloud-Native Ecosystem**  
+We actively contribute to open-source Kubernetes projects and collaborate with major infrastructure providers. Our work includes:  
+- **[Cluster API Provider Hetzner (CAPH)](https://github.com/syself/cluster-api-provider-hetzner)** – The **most starred** Cluster API provider, maintained by Syself.  
+- **[Cluster API Provider Hivelocity (CAPHV)](https://github.com/hivelocity/cluster-api-provider-hivelocity)** – Bringing declarative Kubernetes lifecycle management to Hivelocity, with Syself as the core maintainer.  
+- **[Hivelocity Cloud Controller Manager](https://github.com/hivelocity/hivelocity-cloud-controller-manager)** – Developed by Syself to integrate cloud-native capabilities with Hivelocity infrastructure.  
+- **[Cluster Stack Operator](https://github.com/SovereignCloudStack/cluster-stack-operator)** – A tool designed to simplify Kubernetes cluster creation and management using Cluster API-native workflows.  
+- **[Helm Charts Library](https://github.com/syself/charts)** – A collection of curated Helm charts to streamline Kubernetes application deployments.  
+- **[Csctl](https://github.com/SovereignCloudStack/csmctl)** – A CLI tool for managing Cluster Stacks, ensuring smooth cluster stack releases and updates.  
 
 Love our work so far? Support us by giving a star ⭐
 
-### ✈️ Join us on the journey
+## **Try Syself Today!**  
+🔹 **Free Plan** – 1 Cluster, 5 Nodes, full automation.  
+🔹 **Production-Ready** – Scalability, security, and support for mission-critical environments.  
 
-Contribute by submitting issues, contributing PRs, and engaging in open discussions for feedback. Your involvement is crucial in driving Kubernetes innovation forward.
+## **Affiliate & Partner Program**  
+Syself offers an **affiliate program** where you can earn **15% revenue share for one year** for every successful referral. Join our growing network of **IT consultancies, DevOps agencies, and Kubernetes experts** who help businesses adopt Syself while earning commissions.  
 
-### 🤝 Get involved
+Additionally, our **partner program** enables companies in cost optimization, FinOps, and Kubernetes tooling to collaborate with us, providing added value to the ecosystem.  
 
-- **Affiliate Program:** Earn a 15% commission on referrals for a year.
-- **Try Syself Autopilot:** Book a demo or try it for free at [our website](https://syself.com).
-- **We're Hiring:** Join our global team. Reach out at <jobs@syself.com>.
+Interested in becoming a Syself partner? Contact us at <contact@syself.com>.
 
-For more information, contact us at <contact@syself.com>.
+## **Book a Demo**  
+Want to see Syself in action? **Book a demo today** and discover how our automated Kubernetes platform can revolutionize your infrastructure management.  
+
+[🚀 **Get Started**](https://syself.com) | [📖 **Documentation**](https://syself.com/docs) | [📅 **Book a Demo**](https://syself.com/demo)  
